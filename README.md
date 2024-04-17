@@ -63,6 +63,9 @@
     - CI/CD pipelines
  - git(of course)
  - linux stuff
+ - docker
+ - rabbitmq
+ - redis
 
 ---
 
