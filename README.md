@@ -21,6 +21,13 @@
  - third-party integrations and adapters 🔌
     - telegram api 💙, whatsapp business api, exchanges/brokers api... (this list never ends) ♾️
 
+ - testing & QA 🔄
+    - pytest for e2e and unit, locust for load tests, selenium and appium for interactive web, desktop, mobile tests
+    - manual test reports, summary
+
+ - devops ☁️
+    - build ci and cd pipelines 🛣️
+ 
  - cybersecurity 🕵️
     - this is mostly a need-to-know requirement for all above 😄
 
@@ -33,7 +40,13 @@
 **Languages that i can almost build anything**
  - java
  - javascript(vanilla please)
- - SQL
+ - sql
+ - php
+ - html5/css
+
+**Auxiliary/other languages**
+ - bash
+ - perl
  - mql5
  - pinescript
 
@@ -42,6 +55,14 @@
   - event-driven
   - procedural
   - functional
+
+**Tools and Cloud stuff**
+ - GCP
+ - AWS
+ - github actions
+    - CI/CD pipelines
+ - git(of course)
+ - linux stuff
 
 ---
 
