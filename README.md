@@ -7,15 +7,20 @@
 **Very interested and working in**
  - web development 🖥️
     - django, flask and fastapi mostly 
+
  - web bots & RPA 🕸️
     - selenium, bs4, scrapy, not limited to the www! 🤖
+
  - system architecture 🏗️
     - whats the best way to build an efficient mvp? 👀
+
  - financial systems 💰
     - HFT designs, forex integrations, crypto exchanges
     - strategy design with mql5, pinescript and python
+
  - third-party integrations and adapters 🔌
-    - telegram api 💙, whatsapp business api, exchanges/brokers api... (this list never ends)
+    - telegram api 💙, whatsapp business api, exchanges/brokers api... (this list never ends) ♾️
+
  - cybersecurity 🕵️
     - this is mostly a need-to-know requirement for all above 😄
 
