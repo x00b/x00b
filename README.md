@@ -1,6 +1,6 @@
 👋 Hello friend, it's @x00b!
 
-👾 I'm software engineer and a tech creator
+👾 I'm a coder
 
 --- 
 
