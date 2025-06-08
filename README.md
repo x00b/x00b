@@ -1,12 +1,12 @@
 👋 Hello friend, it's @x00b!
 
-👾 I'm a coder
+👾 I'm a coder & algo trader
 
 --- 
 
 **Very interested and working in**
  - web development 🖥️
-    - django, flask and fastapi mostly 
+    - django, drf & flask
 
  - web bots & RPA 🕸️
     - selenium, bs4, scrapy, not limited to the www! 🤖
@@ -16,7 +16,7 @@
 
  - financial systems 💰
     - HFT designs, forex integrations, crypto exchanges
-    - strategy design with mql5, pinescript and python
+    - strategy design with mql5, pinescript and python(pandas mostly)
 
  - third-party integrations and adapters 🔌
     - telegram api 💙, whatsapp business api, exchanges/brokers api... (this list never ends) ♾️
@@ -30,6 +30,7 @@
  
  - cybersecurity 🕵️
     - this is mostly a need-to-know requirement for all above 😄
+    - data encryption(aes, lgpd compliance) 
 
 ---
 
@@ -38,23 +39,18 @@
  - golang
 
 **Languages that i can almost build anything**
- - java
- - javascript(vanilla please)
- - sql
- - php
+ - javascript(vanilla plz)
  - html5/css
 
 **Auxiliary/other languages**
  - bash
- - perl
  - mql5
  - pinescript
 
 **Paradigms**
   - oop
   - event-driven
-  - procedural
-  - functional
+  - data-driven
 
 **Tools and Cloud stuff**
  - GCP
@@ -68,8 +64,6 @@
  - redis
 
 ---
-
-*i have a blog where i will probably post something somedays* @ https://b0ntech.wordpress.com/
 
 *eof*
 
