@@ -62,6 +62,7 @@
  - docker
  - rabbitmq
  - redis
+ - websockets
 
 ---
 
