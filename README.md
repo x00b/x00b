@@ -1,74 +1,83 @@
-👋 Hello friend, it's @x00b!
+# `@x00b`
 
-👾 I'm a coder & algo trader
-
---- 
-
-**Very interested and working in**
- - web development 🖥️
-    - django, drf & flask
-
- - web bots & RPA 🕸️
-    - selenium, bs4, scrapy, not limited to the www! 🤖
-
- - system architecture 🏗️
-    - whats the best way to build an efficient mvp? 👀
-
- - financial systems 💰
-    - HFT designs, forex integrations, crypto exchanges
-    - strategy design with mql5, pinescript and python(pandas mostly)
-
- - third-party integrations and adapters 🔌
-    - telegram api 💙, whatsapp business api, exchanges/brokers api... (this list never ends) ♾️
-
- - testing & QA 🔄
-    - pytest for e2e and unit, locust for load tests, selenium and appium for interactive web, desktop, mobile tests
-    - manual test reports, summary
-
- - devops ☁️
-    - build ci and cd pipelines 🛣️
- 
- - cybersecurity 🕵️
-    - this is mostly a need-to-know requirement for all above 😄
-    - data encryption(aes, lgpd compliance) 
+**`coder · software engineer · algo trader · system architect`**
 
 ---
 
-**Languages that i can build anything**
- - python
- - golang
-
-**Languages that i can almost build anything**
- - javascript(vanilla plz)
- - html5/css
-
-**Auxiliary/other languages**
- - bash
- - mql5
- - pinescript
-
-**Paradigms**
-  - oop
-  - event-driven
-  - data-driven
-
-**Tools and Cloud stuff**
- - GCP
- - AWS
- - github actions
-    - CI/CD pipelines
- - git(of course)
- - linux stuff
- - docker
- - rabbitmq
- - redis
- - websockets
+```python
+>>> whoami
+{
+  "handle"  : "@x00b",
+  "roles"   : ["backend & fintech engineer", "algo trader", "automation engineer", "quality engineer", "ai engineer"],
+  "stack"   : ["python", "golang", "js", "bash"],
+  "status"  : "build it. ship it. vibe it."
+}
+```
 
 ---
 
-*eof*
+## `~/areas`
 
-<!---
-x00b/x00b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🖥️ Web Development
+Django · DRF · Flask — building robust backends and REST APIs.
+
+### 🕸️ Bots & RPA
+Selenium · BeautifulSoup · Scrapy — automating everything, on and off the web.
+
+### 🏗️ System Architecture
+Designing efficient MVPs with the right tradeoffs — scalability vs speed vs cost.
+
+### 💰 Financial Systems
+- HFT design, Forex integrations, crypto exchange connectors
+- Strategy development with **MQL5**, **PineScript** and **Python (pandas)**
+
+### 🤖 AI & Vibe Coding
+Using **Claude Code** as a daily driver — prompt-driven development, AI-assisted architecture, and shipping faster without losing control of the codebase.
+
+### 🔌 Third-Party Integrations
+Telegram API · WhatsApp Business · Exchange & broker APIs · and the list keeps growing ♾️
+
+### 🔄 Testing & QA
+`pytest` for unit/e2e · `locust` for load · `selenium`/`appium` for interactive UI/mobile · manual test reports
+
+### ☁️ DevOps
+CI/CD pipelines with GitHub Actions · Docker · GCP · AWS · Linux · RabbitMQ · Redis · WebSockets
+
+### 🕵️ Cybersecurity
+_A need-to-know requirement for everything above_ — AES encryption, LGPD compliance, secure-by-design mindset.
+
+---
+
+## `~/stack`
+
+**Backend**
+- Python, Golang — primary languages
+- Django, DRF, Flask — web & API
+- JavaScript (vanilla), HTML5/CSS — frontend when needed
+- Bash — glue, scripting, automation
+- PostgreSQL, Redis, RabbitMQ, WebSockets
+
+**Infra & DevOps**
+- Docker, Linux, Git
+- GCP, AWS
+- GitHub Actions — CI/CD pipelines
+
+**Finance & Algo**
+- MQL5, PineScript, Python (pandas/numpy)
+- HFT systems, Forex & crypto exchange integrations
+- Strategy design, backtesting, live execution
+
+**AI & Tooling**
+- Claude Code — daily driver for development
+- Prompt engineering, AI-assisted architecture
+- LLM integrations in production systems
+
+**Paradigms:** OOP · Event-driven · Data-driven
+
+---
+
+<div align="center">
+
+`// eof`
+
+</div>
